@@ -1,1 +1,1 @@
-# Arduino scripts for Integrated Project Design in University of Cambridge.
+# Arduino scripts for Integrated Project Design at University of Cambridge.
